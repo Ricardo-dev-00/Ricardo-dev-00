@@ -42,8 +42,9 @@
 # 📊 Estatísticas do GitHub
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-dev-00&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-dev-00&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/github/followers/Ricardo-dev-00?label=Seguidores&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/Ricardo-dev-00?label=Stars&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/last-commit/Ricardo-dev-00/perfil-github?label=Último%20commit&style=for-the-badge" />
 </p>
 
 ---
