@@ -23,9 +23,19 @@
 
 # 🛠️ Tecnologias e Ferramentas
 
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,vscode,figma,bootstrap,tailwind,redux,typescript" />
 </p>
+
+<b>Metodologias e Práticas:</b>
+
+- Metodologias Ágeis (Scrum, Kanban)
+- Versionamento com Git e GitHub
+- Mobile First e Responsividade
+- UI/UX Design (Figma)
+- Integração com APIs REST
+- Deploy em Vercel e Netlify
 
 ---
 
