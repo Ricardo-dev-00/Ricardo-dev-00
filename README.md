@@ -44,7 +44,7 @@
 <p align="center">
 <img src="https://img.shields.io/github/followers/Ricardo-dev-00?label=Seguidores&style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/github/stars/Ricardo-dev-00?label=Stars&style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/last-commit/Ricardo-dev-00/perfil-github?label=Último%20commit&style=for-the-badge" />
+<img src="https://img.shields.io/github/commit-activity/y/Ricardo-dev-00/perfil-github?label=Commits%20no%20ano&style=for-the-badge" />
 </p>
 
 ---
@@ -59,8 +59,11 @@
 
 # 🏆 Conquistas do GitHub
 
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ricardo-dev-00&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://img.shields.io/github/repo-count/Ricardo-dev-00?label=Repositórios&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/contributions/2023/Ricardo-dev-00?label=Contribuições%202023&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/commit-activity/y/Ricardo-dev-00/perfil-github?label=Commits%20no%20ano&style=for-the-badge" />
 </p>
 
 ---
