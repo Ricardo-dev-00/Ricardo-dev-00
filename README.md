@@ -39,15 +39,6 @@
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-<img src="https://img.shields.io/github/followers/Ricardo-dev-00?label=Seguidores&style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/Ricardo-dev-00?label=Stars&style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/commit-activity/y/Ricardo-dev-00/perfil-github?label=Commits%20no%20ano&style=for-the-badge" />
-</p>
-
----
 
 # 🔥 Sequência de contribuições
 
@@ -57,16 +48,6 @@
 
 ---
 
-# 🏆 Conquistas do GitHub
-
-
-<p align="center">
-<img src="https://img.shields.io/github/repo-count/Ricardo-dev-00?label=Repositórios&style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/contributions/2023/Ricardo-dev-00?label=Contribuições%202023&style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/commit-activity/y/Ricardo-dev-00/perfil-github?label=Commits%20no%20ano&style=for-the-badge" />
-</p>
-
----
 
 # 🐍 Gráfico de contribuições animado
 
@@ -97,3 +78,5 @@ https://github.com/Ricardo-dev-00
 <p align="center">
 ⭐ Obrigado por visitar meu perfil!
 </p>
+
+<!-- Atualização forçada em 2026-03-05 para commit -->
