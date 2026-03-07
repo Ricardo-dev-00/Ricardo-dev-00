@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Ricardo Vieira Penha</h1>
+<h1 align="center">👋 Olá, eu sou Ricardo Vieira</h1>
 
 <p align="center">
 💻 Desenvolvedor Front-end em formação <br>
