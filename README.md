@@ -64,7 +64,7 @@
 📌 **Portfólio profissional**
 
 👉 Veja todos os projetos:
-https://projeto-meu-portfolio-snowy.vercel.app/
+https://ricardo-dev-00.github.io/Portfolio-React/
 
 ---
 
